@@ -55,6 +55,17 @@ h1, h2, h3, h4, h5, h6 {
     color  : #0e1555;
     }
 
+#imagelogo {
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding: 15px;
+}
+
+#logoheading {
+    color:#fd367e
+}
+
 h1 {
     font-size   : 36px;
     line-height : 1.2em;
